@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Staff>
+  <admin>
+    <type>Staff1</type>
+    <Username>Rahul</Username>
+    <Password>Dravid</Password>
+  </admin>
+  <admin>
+    <type>Staff2</type>
+    <Username>VVS</Username>
+    <Password>Laxman</Password>
+  </admin>
+  <admin>
+    <type>Staff1</type>
+    <Username>Ricky</Username>
+    <Password>Ponting</Password>
+  </admin>
+  <admin>
+    <type>Staff2</type>
+    <Username>Anil</Username>
+    <Password>Kumble</Password>
+  </admin>
+ 
+</Staff>
